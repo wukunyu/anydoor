@@ -1,0 +1,26 @@
+{
+  "name": "anydoor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "handlebars": "^4.5.3"
+  },
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "eslint": "^6.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wukunyu/anydoor.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wukunyu/anydoor/issues"
+  },
+  "homepage": "https://github.com/wukunyu/anydoor#readme"
+}
